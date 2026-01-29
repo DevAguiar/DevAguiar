@@ -16,7 +16,7 @@ Atualmente busco minha **primeira oportunidade de estágio**, onde possa aprende
 - **Linguagens:** Java, Python, SQL  
 - **Banco de Dados:** MySQL  
 - **Conceitos:** POO, Estrutura de Dados, Lógica Algorítmica, APIs REST  
-- **Ferramentas:** Git, GitHub, VS Code, IntelliJ  
+- **Ferramentas:** Git, GitHub, VS Code 
 
 ---
 
