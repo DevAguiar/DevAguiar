@@ -26,8 +26,6 @@ Atualmente busco minha **primeira oportunidade de estágio**, onde possa aprende
 - 🔹 Implementação da lógica financeira da HP12c em Java  
 - 🔹 Manipulação de arquivos e I/O em Java  
 
-👉 Os repositórios contêm README com descrição e instruções de execução.
-
 ---
 
 ## 📫 Contato
