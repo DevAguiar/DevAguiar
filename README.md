@@ -23,8 +23,8 @@ Atualmente busco minha **primeira oportunidade de estágio**, onde possa aprende
 ## 📂 Projetos em destaque
 - 🔹 Consumo de APIs REST em Python  
 - 🔹 Automação e controle de navegador em Python  
-- 🔹 Implementação da lógica financeira da HP12c em Java  
-- 🔹 Manipulação de arquivos e I/O em Java  
+- 🔹 Sistema CRUD de gerenciamento de alunos e notas
+- 🔹 Inserção automática de dados em site
 
 ---
 
