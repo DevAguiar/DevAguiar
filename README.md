@@ -6,16 +6,15 @@
 ---
 
 ## 🚀 Sobre mim
-Sou estudante de Sistemas de Informação, com base sólida em **lógica de programação**, **orientação a objetos** e **integração de sistemas**. Tenho experiência acadêmica prática com **Java, Python e SQL**, desenvolvendo projetos que envolvem consumo de **APIs REST**, automação de tarefas, manipulação de dados e organização de código.
-
-Atualmente busco minha **primeira oportunidade de estágio**, onde possa aprender em ambiente profissional e contribuir com soluções bem estruturadas.
+Sou estudante de Sistemas de Informação no IFMG, com interesse em desenvolvimento back-end/full stack. Possuo experiência acadêmica prática com Python, Java, JavaScript e SQL, além de conhecimentos em HTML e CSS. Atualmente faço estágio na área de desenvolvimento, além de realizar um curso voltado para Next.js, buscando aprofundar meus conhecimentos em desenvolvimento full stack e construção de aplicações modernas
 
 ---
 
 ## 🛠️ Tecnologias
-- **Linguagens:** Java, Python, SQL  
-- **Banco de Dados:** MySQL  
-- **Conceitos:** POO, Estrutura de Dados, Lógica Algorítmica, APIs REST  
+- **Linguagens:** Python, Java, SQL, JavaScript
+- **Front-End:** HTML, CSS, React
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Frameworks e Tecnologias:** Next.js (em curso), Node.js, Express  
 - **Ferramentas:** Git, GitHub, VS Code, Power BI
 
 ---
